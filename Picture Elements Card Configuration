@@ -1,0 +1,214 @@
+type: picture-elements
+elements:
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone1
+    style:
+      color: black
+      font-size: 120%
+      top: 34%
+      left: 10%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone2
+    style:
+      color: black
+      font-size: 120%
+      top: 34%
+      left: 26%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_sell_mode_timezone1
+    style:
+      color: black
+      font-size: 120%
+      top: 34%
+      left: 43%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_soc_timezone1
+    style:
+      color: black
+      font-size: 120%
+      top: 34%
+      left: 60%
+  - type: state-icon
+    entity: binary_sensor.sunsynkesp_ssetting_grid_charge_timezone1
+    style:
+      color: black
+      font-size: 120%
+      top: 34%
+      left: 75%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone2
+    style:
+      color: black
+      font-size: 120%
+      top: 45%
+      left: 10%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone3
+    style:
+      color: black
+      font-size: 120%
+      top: 45%
+      left: 26%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_sell_mode_timezone2
+    style:
+      color: black
+      font-size: 120%
+      top: 45%
+      left: 43%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_soc_timezone2
+    style:
+      color: black
+      font-size: 120%
+      top: 45%
+      left: 60%
+  - type: state-icon
+    entity: binary_sensor.sunsynkesp_ssetting_grid_charge_timezone2
+    style:
+      color: black
+      font-size: 120%
+      top: 45%
+      left: 75%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone3
+    style:
+      color: black
+      font-size: 120%
+      top: 56%
+      left: 10%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone4
+    style:
+      color: black
+      font-size: 120%
+      top: 56%
+      left: 26%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_sell_mode_timezone3
+    style:
+      color: black
+      font-size: 120%
+      top: 56%
+      left: 43%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_soc_timezone3
+    style:
+      color: black
+      font-size: 120%
+      top: 56%
+      left: 60%
+  - type: state-icon
+    entity: binary_sensor.sunsynkesp_ssetting_grid_charge_timezone3
+    style:
+      color: black
+      font-size: 120%
+      top: 56%
+      left: 75%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone4
+    style:
+      color: black
+      font-size: 120%
+      top: 66%
+      left: 10%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone5
+    style:
+      color: black
+      font-size: 120%
+      top: 66%
+      left: 26%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_sell_mode_timezone4
+    style:
+      color: black
+      font-size: 120%
+      top: 66%
+      left: 43%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_soc_timezone4
+    style:
+      color: black
+      font-size: 120%
+      top: 66%
+      left: 60%
+  - type: state-icon
+    entity: binary_sensor.sunsynkesp_ssetting_grid_charge_timezone4
+    style:
+      color: black
+      font-size: 120%
+      top: 66%
+      left: 75%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone5
+    style:
+      color: black
+      font-size: 120%
+      top: 77%
+      left: 10%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone6
+    style:
+      color: black
+      font-size: 120%
+      top: 77%
+      left: 26%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_sell_mode_timezone5
+    style:
+      color: black
+      font-size: 120%
+      top: 77%
+      left: 43%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_soc_timezone5
+    style:
+      color: black
+      font-size: 120%
+      top: 77%
+      left: 60%
+  - type: state-icon
+    entity: binary_sensor.sunsynkesp_ssetting_grid_charge_timezone5
+    style:
+      color: black
+      font-size: 120%
+      top: 77%
+      left: 75%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone6
+    style:
+      color: black
+      font-size: 120%
+      top: 88%
+      left: 10%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_timezone1
+    style:
+      color: black
+      font-size: 120%
+      top: 88%
+      left: 26%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_sell_mode_timezone6
+    style:
+      color: black
+      font-size: 120%
+      top: 88%
+      left: 43%
+  - type: state-label
+    entity: sensor.sunsynkesp_ssetting_soc_timezone6
+    style:
+      color: black
+      font-size: 120%
+      top: 88%
+      left: 60%
+  - type: state-icon
+    entity: binary_sensor.sunsynkesp_ssetting_grid_charge_timezone6
+    style:
+      color: black
+      font-size: 120%
+      top: 88%
+      left: 75%
+image: >-
+  https://user-images.githubusercontent.com/13587376/234494961-01776480-d7e5-43bf-9c42-c9559723bcad.png
