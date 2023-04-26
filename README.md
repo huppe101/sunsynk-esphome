@@ -12,16 +12,16 @@ I used DF Robot Beetle ESP32 C3 - RISC-V
 (https://robotics.org.za/DFR0868)
 
 3. Connect:
+RS485		ESP32
+		
+DI	-->	TX
+DE & RE	-->	Control pin
+RO	-->	RX
+		
+GND	-->	GND
+VCC	-->	VIN![image](https://user-images.githubusercontent.com/13587376/234518276-70dcd353-cf68-4d0d-a2ff-c59fcb8def13.png)
 
 
-    | RS485 side  | ESP32 side
-      
-    |DI -->       | ESP TX
-    |DE & RE -->  | Control pin
-    |RO -->       | RX
-
-    | GND -->     | GND (ESP32)
-    | VCC  -->    | VIN (ESP32) 5V
 
 Attention:
 Remove R7 on the RS485 module. otherwise the readings will be very sporadic
