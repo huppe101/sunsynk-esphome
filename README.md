@@ -12,6 +12,8 @@ I used DF Robot Beetle ESP32 C3 - RISC-V
 (https://robotics.org.za/DFR0868)
 
 3. Connect:
+
+
     | RS485 side  | ESP32 side
       
     |DI -->       | ESP TX
