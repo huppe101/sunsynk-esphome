@@ -6,5 +6,4 @@ Power flow:
 
 
 System mode:
-
-<img width="425" alt="image" src="https://user-images.githubusercontent.com/13587376/234494607-9e172caa-7c86-4cde-ab4c-8b4f1fe7cb9e.png">
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/13587376/234494961-01776480-d7e5-43bf-9c42-c9559723bcad.png">
