@@ -10,3 +10,4 @@ Power flow:
 On the dashboard add a Picture Elements Card Configuration - and add the details in the Picture Elements Card Configuration file
 
 <img width="413" alt="image" src="https://user-images.githubusercontent.com/13587376/234494961-01776480-d7e5-43bf-9c42-c9559723bcad.png">
+<img width="475" alt="image" src="https://user-images.githubusercontent.com/13587376/234502899-172496b2-a76c-4f2b-9373-f192cdb08742.png">
