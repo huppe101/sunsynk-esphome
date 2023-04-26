@@ -1,10 +1,12 @@
-# sunsynk inverter Esphome
+# Sunsynk inverter Esphome
 
-# hardware:
+# Hardware:
 
 1. RS485 Module (TTL -> RS485)
 (https://www.robotics.org.za/RS485-MOD)
+
 ![image](https://user-images.githubusercontent.com/13587376/234514455-68eb6244-1da5-4967-82cd-034c172a47ba.png)
+
 2. Any ESP module really
 I used DF Robot Beetle ESP32 C3 - RISC-V
 (https://robotics.org.za/DFR0868)
